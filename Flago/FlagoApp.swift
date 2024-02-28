@@ -11,7 +11,7 @@ import SwiftUI
 struct FlagoApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            Guess_the_Flag()
         }
     }
 }
